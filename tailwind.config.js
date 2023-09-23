@@ -15,6 +15,15 @@ module.exports = {
         "2xl": "1400px",
       },
     },
+    colors: {
+      transparent: 'transparent',
+      current: 'currentColor',
+      'redPantone': '#EF233C',
+      'spaceCadet': '#2B2D42',
+      'coolGray': '#8D99AE',
+      'antiFlashWhite': '#EDF2F4',
+      'fireEngineRed': '#D90429',
+    },
     extend: {
       colors: {
         border: "hsl(var(--border))",
