@@ -32,7 +32,7 @@ export default function Home() {
           text="Crie uma lista de restaurantes para ir. Adicione nome, link de reserva, cardápio, média de preço. Após marcar como feito, avalie o restaurante."
           image="/home-movies.svg"
           alt="Ilustração de personagem comendo em um restaurante. Credits to: https://storyset.com/home"
-          linkText="Criar minha lista para assistir"
+          linkText="Criar minha watchlist"
         />
       </div>
     </> 
